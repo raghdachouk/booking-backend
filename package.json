@@ -22,7 +22,7 @@
     "pg-hstore": "^2.3.2",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "sequelize": "^4.38.0"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {
     "@babel/node": "^7.0.0-rc.1"
